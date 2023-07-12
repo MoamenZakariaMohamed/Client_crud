@@ -56,10 +56,10 @@ This is a sample project showcasing a Client CRUD (Create, Read, Update, Delete)
 ## API Endpoints
 
 The following API endpoints are available for managing clients:
-
+```
 - `GET /api/v1/client/all` - Retrieve a list of all clients.
 - `GET /api/v1/client/{id}` - Retrieve a client by its unique identifier.
 - `POST /api/v1/client/save` - Create a new client.
 - `PUT /api/v1/client/{id}/update` - Update an existing client.
 - `DELETE /api/v1/client/{id}` - Delete a client.
-
+```
